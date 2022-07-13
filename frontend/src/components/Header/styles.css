@@ -1,20 +1,4 @@
-.dsmeta-red-btn {
-    height: 45px;
-    width: 45px;
-    background: rgba(255, 107, 114, 0.1);
-    border: 1px solid #ff6b72;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-  }
-  
-  .dsmeta-red-btn img {
-      width: 19px;
-  }
-
-  header {
+header {
     background: linear-gradient(180deg, #102347 0%, #181818 100%);
     height: 220px;
     display: flex;
@@ -41,4 +25,3 @@
     font-size: 14px;
     font-weight: 300;
   }
-  
